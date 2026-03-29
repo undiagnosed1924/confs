@@ -1,0 +1,18 @@
+[/]
+audible-bell=true
+background-color='rgb(0,0,0)'
+background-transparency-percent=14
+bold-color-same-as-fg=true
+cursor-colors-set=true
+cursor-foreground-color='rgb(255,255,255)'
+font='JetBrains Mono Thin Italic 12'
+foreground-color='rgb(25,245,46)'
+highlight-background-color='rgb(208,25,25)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(0,0,0)'
+palette=['rgb(0,0,0)', 'rgb(205,0,0)', 'rgb(0,205,0)', 'rgb(205,205,0)', 'rgb(0,0,238)', 'rgb(205,0,205)', 'rgb(0,205,205)', 'rgb(229,229,229)', 'rgb(127,127,127)', 'rgb(255,0,0)', 'rgb(0,255,0)', 'rgb(255,255,0)', 'rgb(92,92,255)', 'rgb(255,0,255)', 'rgb(0,255,255)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='undiagnosed1924'
