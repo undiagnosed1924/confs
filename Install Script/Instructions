@@ -1,0 +1,5 @@
+installer instructions: 
+
+open terminal and pasted the line: 
+
+bash <(curl -sSL "https://raw.githubusercontent.com/undiagnosed1924/confs/main/Install%20Script/install%20script.sh")
