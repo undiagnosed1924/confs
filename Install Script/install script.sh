@@ -25,9 +25,9 @@ INSTALL_TLAUNCHER=true
 # 2. SELECTION MENU
 show_menu() {
     clear
-    echo -e "${BLUE}==========================================${RC}"
-    echo -e "${BLUE}   DEBIAN CUSTOM INSTALLER SELECTION      ${RC}"
-    echo -e "${BLUE}==========================================${RC}"
+    echo -e "${BLUE}===================================================${RC}"
+    echo -e "${BLUE}   UNDIAGNOSED1924 CUSTOM INSTALLER SELECTION      ${RC}"
+    echo -e "${BLUE}===================================================${RC}"
     echo -e "Enter the number to toggle [ON/OFF], or 'y' to install."
     echo -e "------------------------------------------"
     echo -e "1) [$( [[ $INSTALL_CODIUM == true ]] && echo -e "${GREEN}ON${RC}" || echo -e "OFF" )] VSCodium"
